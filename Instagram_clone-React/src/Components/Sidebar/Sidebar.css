@@ -1,0 +1,10 @@
+.logo img{
+    margin-left: 10px;
+    width: 70%;
+}
+.sidebar{
+    margin-top: 10px;
+    flex: 0.33;
+    position: sticky;
+    top: 0;
+}

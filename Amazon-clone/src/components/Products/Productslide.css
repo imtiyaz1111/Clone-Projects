@@ -1,0 +1,84 @@
+.mainbox{
+   
+    margin-left: 30px;
+    margin-right: 20px;
+    background-color: white;
+}
+.mainbox h1{
+   padding-top: 20px;
+    font-size:larger;
+    margin-left: 20px;
+}
+.carts{
+   
+    margin-left: 20px;
+    margin-right: 20px;
+    width: 300px;
+    padding: 10px 10px 10px 10px;
+}
+.cartinfo{
+    display: flex;
+    align-items: center;
+    margin-left: 10px;
+    
+}
+.cartinfo button{
+    color: white;
+    outline: none;
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color:rgb(204, 12, 57);
+}
+.carts img{
+    height: 150px;
+    width: 200px;
+    margin-left: 30px;
+}
+.cartinfo h5{
+    margin-left: 10px;
+    color: brown;
+}
+.poster{
+    
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+}
+.pro{
+    
+    padding-top: 40px;
+}
+.buttombox{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+    background-color: #fff;
+}
+.buttombox p{
+    font-size: small;
+    font-weight: 600;
+}
+.buttombox button{
+    color: black;
+    background-color: orange;
+    width: 200px;
+    border: none;
+    border-radius: 5px;
+   padding-top: 10px;
+   padding-bottom: 10px;
+   margin-left: 30px;
+    cursor: pointer;
+}
+.buttomspan{
+    cursor: pointer;
+    color: #007185;
+}
+.back{
+    width: 100vw;
+    height: 50px;
+    color: #fff;
+    font-weight: 600;
+    background-color:#2c3847;
+    cursor: pointer;
+}

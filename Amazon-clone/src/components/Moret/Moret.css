@@ -1,0 +1,34 @@
+.more button{
+  color: black;
+  background-color: orange;
+  width: 200px;
+  border: none;
+  border-radius: 20px;
+  padding: 20px 5px 20px 5px;
+  cursor: pointer;
+  
+}
+.more p{
+    color: black;
+}
+.more{
+    text-align: center;
+}
+.morebox{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.more1{
+    padding-bottom: 150px;
+}
+.morebox p{
+    color: black;
+}
+.morebox a{
+    text-decoration: none;
+}
+.morebox p:hover{
+    text-decoration: underline;
+    color: orange;
+}

@@ -1,0 +1,59 @@
+.bootom {
+  background-color: #232f3e;
+  padding-top: 20px;
+}
+.bootom_first {
+  display: flex;
+  justify-content: space-between;
+  padding-bottom: 30px;
+  padding-left: 200px;
+  padding-right: 200px;
+}
+.first {
+  display: flex;
+  flex-direction: column;
+}
+.first h1 {
+  font-size: larger;
+  color: white;
+}
+.first a {
+  text-decoration: none;
+  color: #dddddd;
+}
+.first a:hover {
+  text-decoration: underline;
+}
+.bottom_second {
+  text-align: center;
+}
+
+.bottom_second img {
+  padding-top: 30px;
+  height: 30px;
+  width: 100px;
+}
+.bottom-second {
+  display: flex;
+  align-items: center;
+}
+.bottom-second {
+  padding-left: 120px;
+  padding-bottom: 30px;
+}
+.bottom-second a {
+  text-decoration: none;
+  color: #dddddd;
+  font-size: smaller;
+  margin-left: 10px;
+}
+.bottom-second a {
+  text-decoration: underline;
+}
+.bootom_third{
+    text-align: center;
+    background-color: #131A22;
+    color: white;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}

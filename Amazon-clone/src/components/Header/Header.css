@@ -1,0 +1,164 @@
+.header {
+  background-color: black;
+  padding-left: 10px;
+  padding-right: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  position: sticky;
+}
+.header_first:hover {
+  border: 1px solid white;
+}
+.header_first img {
+  width: 80px;
+  object-fit: contain;
+  cursor: pointer;
+}
+.comname {
+  font-size: small;
+}
+.header_second {
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+}
+.header_second .MuiSvgIcon-root {
+  color: white;
+}
+.header_second:hover {
+  border: 1px solid white;
+}
+.header_second1 p {
+  color: white;
+}
+.spcol {
+  font-size: medium;
+  font-weight: 600;
+  color: white;
+}
+.header_third {
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+}
+.allsection {
+  width: 70px;
+  border: 2px solid red;
+  padding: 10px;
+  border-radius: 3px;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
+.header_third select:hover {
+  background-color: rgb(197, 193, 193);
+}
+.header_third input {
+  border: none;
+  outline: none;
+  width: 36vw;
+  padding: 10px 15px;
+  border-radius: 3px;
+}
+.header_third .MuiSvgIcon-root {
+  color: black;
+  background-color: orange;
+  font-size: 25px;
+  padding: 5px 15px;
+  border-radius: 3px;
+  border: none;
+  outline: none;
+}
+.header_fourth {
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+}
+.header_fourth:hover {
+  border: 1px solid white;
+}
+
+.header_fourth img {
+  width: 30px;
+  object-fit: contain;
+}
+.header_fourth .MuiSvgIcon-root {
+  color: white;
+}
+.header_fifth {
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+}
+.header_fifth:hover {
+  border: 1px solid white;
+}
+.header_fourth h5 {
+  color: white;
+  margin-left: 5px;
+}
+.header_fifth p {
+  color: white;
+}
+.header_fifth .MuiSvgIcon-root {
+  color: white;
+}
+.header_six p {
+  cursor: pointer;
+  color: white;
+}
+.header_six:hover {
+  border: 1px solid white;
+}
+.header_seven {
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+}
+.header_seven:hover {
+  border: 1px solid white;
+}
+.header_seven {
+  color: white;
+  font-weight: 600;
+}
+.buttom_header {
+  display: flex;
+  align-items: center;
+  background-color: black;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.sidebar {
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+}
+.sidebar p {
+  color: white;
+  font-weight: 600;
+}
+.sidebar .MuiSvgIcon-root {
+  color: white;
+  margin-right: 5px;
+}
+.allcatogire button {
+  cursor: pointer;
+  margin-left: 10px;
+  background-color: black;
+  color: white;
+  padding: 10px 5px 10px 5px;
+  border: none;
+}
+.allcatogire button:hover {
+  border: 1px solid white;
+}
+.bottomimg img {
+  cursor: pointer;
+
+  margin-left: 105px;
+}
+.bottomimg img:hover {
+  border: 1px solid white;
+}

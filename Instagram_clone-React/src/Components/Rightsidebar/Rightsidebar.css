@@ -1,0 +1,88 @@
+.Rightsidebar{
+    margin-top: 30px;
+    margin-right: 10px;
+    height: 100vh;
+    position: sticky;
+    top: 0;
+    flex: 0.50;
+    color: white;
+    overflow: hidden;
+}
+.right_header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.rightheader_left{
+    display: flex;
+    align-items: center;
+}
+.rightheader_left .MuiAvatar-root{
+    width: 60px;
+    height: 60px;
+    margin-right: 10px;
+}
+.rightheader_right p{
+    color: #0095F6;
+    cursor: pointer;
+}
+.rightinfo p{
+    color: gray;
+    font-size: 13px;
+    font-weight: 500;
+}
+
+.rightmidlle_top{
+    margin-top: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.rightmidlle_left p{
+    color: gray;
+    font-weight: 500;
+    font-size: 18px;
+}
+.rightmidlle_midlle{
+    margin-top: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.rightmidlles_left{
+    display: flex;
+    align-items: center;
+}
+.rightmidlles_left .MuiAvatar-root{
+    margin-right: 10px;
+}
+.rightmidlles_right p{
+    color: #0095F6;
+    cursor: pointer;
+}
+.rightmidlles_right p:hover{
+    color: white;
+}
+
+.right_bottom ul{
+   list-style: none;
+}
+.right_bottom a{
+   text-decoration: none;
+   color: gray;
+ 
+   margin-right: 10px;
+ }
+ .right_bottom a:hover{
+    text-decoration: underline;
+  }
+  .brack{
+    display: flex;
+    margin-top: 10px;
+  }
+  .secondbreack{
+    display: flex;
+  }
+  .copyright{
+    color: gray;
+  }
